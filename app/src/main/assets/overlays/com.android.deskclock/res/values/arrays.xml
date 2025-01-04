@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer-array name="background_colors">
+        <item>0xffd7d7d8</item>
+        <item>0xffd7d7d8</item>
+        <item>0xffd7d7d8</item>
+        <item>0xffd7d7d8</item>
+        <item>0xffd7d7d8</item>
+        <item>0xffd7d7d8</item>
+        <item>0xffd7d7d8</item>
+        <item>0xffd7d7d8</item>
+        <item>0xffd7d7d8</item>
+        <item>0xffd7d7d8</item>
+        <item>0xffd7d7d8</item>
+        <item>0xffd7d7d8</item>
+        <item>0xffd7d7d8</item>
+        <item>0xffd7d7d8</item>
+        <item>0xffd7d7d8</item>
+        <item>0xffd7d7d8</item>
+        <item>0xffd7d7d8</item>
+        <item>0xffd7d7d8</item>
+        <item>0xffd7d7d8</item>
+        <item>0xffd7d7d8</item>
+        <item>0xffd7d7d8</item>
+        <item>0xffd7d7d8</item>
+        <item>0xffd7d7d8</item>
+        <item>0xffd7d7d8</item>
+    </integer-array>
+</resources>
